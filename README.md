@@ -22,7 +22,7 @@ Add `multipart` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:multipart, "~> 0.1.0"}
+    {:multipart, "~> 0.3"}
   ]
 end
 ```
